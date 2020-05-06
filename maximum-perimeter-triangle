@@ -24,7 +24,7 @@ class Solution
             {
                 System.out.println(sticks[i+2]+" "+sticks[i+1]+" "+sticks[i]);
                 System.exit(0);
-            }    
+            }
         }
         System.out.println(-1);
     }
